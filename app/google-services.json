@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5033639139",
+    "project_id": "remoteconfignapratica",
+    "storage_bucket": "remoteconfignapratica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5033639139:android:0fa4f2a8f93305f6b2d9d6",
+        "android_client_info": {
+          "package_name": "com.example.remoteconfignapratica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ehmUCn2HE-VMRECeFv8S9KCZffJFP9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
